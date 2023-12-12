@@ -1,0 +1,54 @@
+-------------------------------------------
+Training model baseBertWith2LayerClassfierUsing12Layer . Learning Parameter 2e-05. num_of_epochs 5
+Epoch 1/5:
+Training F1 score Weighted: 0.6956 Macro: 0.6884
+Training Avg Loss: 0.1068, Total Loss: 5503.6817, Training Accuracy: 70.0355, Train Correct: 36076, Train Total: 51511
+Validation Loss: 0.1039, Validation Loss: 594.6692, Validation Accuracy: 74.4410, val correct: 4261, Val Total: 5724
+The F1 score : Weighted 0.7386 Macro 0.7312
+Per-class accuracy:
+Class 0: 85.98% (1687/1962)
+Class 1: 53.23% (914/1717)
+Class 2: 81.17% (1660/2045)
+Epoch took: 1697.40 seconds
+Epoch 2/5:
+Training F1 score Weighted: 0.7353 Macro: 0.7289
+Training Avg Loss: 0.1012, Total Loss: 5214.7536, Training Accuracy: 73.6969, Train Correct: 37962, Train Total: 51511
+Validation Loss: 0.1022, Validation Loss: 585.2628, Validation Accuracy: 74.8777, val correct: 4286, Val Total: 5724
+The F1 score : Weighted 0.7399 Macro 0.7320
+Per-class accuracy:
+Class 0: 87.51% (1717/1962)
+Class 1: 50.20% (862/1717)
+Class 2: 83.47% (1707/2045)
+Epoch took: 1694.18 seconds
+Epoch 3/5:
+Training F1 score Weighted: 0.7409 Macro: 0.7347
+Training Avg Loss: 0.1003, Total Loss: 5167.5723, Training Accuracy: 74.1647, Train Correct: 38203, Train Total: 51511
+Validation Loss: 0.1017, Validation Loss: 581.8869, Validation Accuracy: 75.3669, val correct: 4314, Val Total: 5724
+The F1 score : Weighted 0.7547 Macro 0.7490
+Per-class accuracy:
+Class 0: 83.79% (1644/1962)
+Class 1: 64.59% (1109/1717)
+Class 2: 76.33% (1561/2045)
+Epoch took: 1701.28 seconds
+Epoch 4/5:
+Training F1 score Weighted: 0.7423 Macro: 0.7362
+Training Avg Loss: 0.1000, Total Loss: 5152.7244, Training Accuracy: 74.3278, Train Correct: 38287, Train Total: 51511
+Validation Loss: 0.1012, Validation Loss: 579.1911, Validation Accuracy: 75.5066, val correct: 4322, Val Total: 5724
+The F1 score : Weighted 0.7474 Macro 0.7398
+Per-class accuracy:
+Class 0: 87.51% (1717/1962)
+Class 1: 52.13% (895/1717)
+Class 2: 83.62% (1710/2045)
+Epoch took: 1709.74 seconds
+Epoch 5/5:
+Training F1 score Weighted: 0.7473 Macro: 0.7413
+Training Avg Loss: 0.0995, Total Loss: 5122.9834, Training Accuracy: 74.8015, Train Correct: 38531, Train Total: 51511
+Validation Loss: 0.1006, Validation Loss: 575.7279, Validation Accuracy: 75.8386, val correct: 4341, Val Total: 5724
+The F1 score : Weighted 0.7559 Macro 0.7494
+Per-class accuracy:
+Class 0: 85.88% (1685/1962)
+Class 1: 59.29% (1018/1717)
+Class 2: 80.10% (1638/2045)
+Epoch took: 1702.26 seconds
+Training took: 8505.11 seconds
+-------------------------------------------

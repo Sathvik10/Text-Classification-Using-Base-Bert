@@ -1,0 +1,44 @@
+-------------------------------------------
+Training model baseBertWith2LayerClassfier_256_8 . Learning Parameter 2e-05. num_of_epochs 4
+Epoch 1/4:
+Training F1 score Weighted: 0.5644 Macro: 0.5555
+Training Avg Loss: 0.1204, Total Loss: 6199.6299, Training Accuracy: 58.1565, Train Correct: 29957, Train Total: 51511
+Validation Loss: 0.1145, Validation Loss: 655.1514, Validation Accuracy: 67.3131, val correct: 3853, Val Total: 5724
+The F1 score : Weighted 0.6703 Macro 0.6640
+Per-class accuracy:
+Class 0: 82.21% (1613/1962)
+Class 1: 51.66% (887/1717)
+Class 2: 66.16% (1353/2045)
+Epoch took: 1497.39 seconds
+Epoch 2/4:
+Training F1 score Weighted: 0.6468 Macro: 0.6394
+Training Avg Loss: 0.1116, Total Loss: 5749.6482, Training Accuracy: 65.3569, Train Correct: 33666, Train Total: 51511
+Validation Loss: 0.1107, Validation Loss: 633.6313, Validation Accuracy: 68.9727, val correct: 3948, Val Total: 5724
+The F1 score : Weighted 0.6842 Macro 0.6770
+Per-class accuracy:
+Class 0: 84.96% (1667/1962)
+Class 1: 49.10% (843/1717)
+Class 2: 70.32% (1438/2045)
+Epoch took: 1497.68 seconds
+Epoch 3/4:
+Training F1 score Weighted: 0.6666 Macro: 0.6598
+Training Avg Loss: 0.1093, Total Loss: 5627.6175, Training Accuracy: 67.0187, Train Correct: 34522, Train Total: 51511
+Validation Loss: 0.1079, Validation Loss: 617.3449, Validation Accuracy: 70.9818, val correct: 4063, Val Total: 5724
+The F1 score : Weighted 0.7091 Macro 0.7026
+Per-class accuracy:
+Class 0: 79.61% (1562/1962)
+Class 1: 56.44% (969/1717)
+Class 2: 74.91% (1532/2045)
+Epoch took: 1502.91 seconds
+Epoch 4/4:
+Training F1 score Weighted: 0.6728 Macro: 0.6659
+Training Avg Loss: 0.1082, Total Loss: 5572.4647, Training Accuracy: 67.5992, Train Correct: 34821, Train Total: 51511
+Validation Loss: 0.1073, Validation Loss: 614.1799, Validation Accuracy: 71.1041, val correct: 4070, Val Total: 5724
+The F1 score : Weighted 0.7124 Macro 0.7063
+Per-class accuracy:
+Class 0: 79.92% (1568/1962)
+Class 1: 59.81% (1027/1717)
+Class 2: 72.13% (1475/2045)
+Epoch took: 1512.93 seconds
+Training took: 6011.09 seconds
+-------------------------------------------

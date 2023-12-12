@@ -1,0 +1,28 @@
+-------------------------------------------
+Training model bert_with_2_fnn_1_layer . Learning Parameter 2e-05. num_of_epochs 3
+Epoch 1/3:
+Per-class accuracy:
+Class 0: 53.62% (1052/1962)
+Class 1: 22.71% (390/1717)
+Class 2: 76.82% (1571/2045)
+Epoch took: 321.02 seconds
+Training Loss: 1.0688, Total Loss: 6881.8757, Training Accuracy: 0.0000, Train Correct: 0, Train Total: 51511
+Validation Loss: 0.9995, Validation Loss: 715.6105, Validation Accuracy: 52.0000, val correct: 3013, Val Total: 5724
+Epoch 2/3:
+Per-class accuracy:
+Class 0: 56.12% (1101/1962)
+Class 1: 70.24% (1206/1717)
+Class 2: 30.81% (630/2045)
+Epoch took: 321.25 seconds
+Training Loss: 1.0292, Total Loss: 6627.2048, Training Accuracy: 0.0000, Train Correct: 0, Train Total: 51511
+Validation Loss: 1.0061, Validation Loss: 720.3962, Validation Accuracy: 51.0000, val correct: 2937, Val Total: 5724
+Epoch 3/3:
+Per-class accuracy:
+Class 0: 44.65% (876/1962)
+Class 1: 69.77% (1198/1717)
+Class 2: 52.18% (1067/2045)
+Epoch took: 321.20 seconds
+Training Loss: 1.0164, Total Loss: 6544.7468, Training Accuracy: 0.0000, Train Correct: 0, Train Total: 51511
+Validation Loss: 0.9779, Validation Loss: 700.1876, Validation Accuracy: 54.0000, val correct: 3141, Val Total: 5724
+Training took: 963.47 seconds
+-------------------------------------------
