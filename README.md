@@ -90,6 +90,6 @@ python main.py --eval <path> <model_value> <name> <layer>
 ```
 
 - `<path>`: Path to the trained model
-- `<model_value>`: Model value (1 or 2)
+- `<model_value>`: 1 for single layer classifier and 2 for double layer classifier
 - `<name>`: Name of the model
 - `<layer>` (optional): Layer number
